@@ -574,7 +574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RunningPower: 25
-  RunningTimer: 7
+  RunningTimer: 10
 --- !u!1 &1191741255
 GameObject:
   m_ObjectHideFlags: 0
